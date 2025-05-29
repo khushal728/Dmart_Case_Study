@@ -28,7 +28,7 @@ This project explores how DMart, a leading Indian retail chain, can optimize its
 
 ## 📹 Dashboard Walkthrough Video
 
-https://user-images.githubusercontent.com/khushal728/your_dashboard_video.mp4
+[Dashboard video](https://github.com/khushal728/Dmart_Case_Study/issues/1#issue-3099881474)
 
 ---
 ## 🎯 Objective
