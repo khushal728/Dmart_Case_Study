@@ -24,7 +24,8 @@ This project explores how DMart, a leading Indian retail chain, can optimize its
 │
 ```
 ---
-![Dashboard Overview](./visuals/screenshots/dashboard_overview.png)
+![Dashboard Overview](https://github.com/user-attachments/assets/600d13a3-ba97-4ca7-aef4-c2d56a0cc643)
+![Dashboard Overview](https://github.com/user-attachments/assets/2cab21be-0e71-49e1-9ffb-2cf118fe23db)
 
 ## 📹 Dashboard Walkthrough Video
 
